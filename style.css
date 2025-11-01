@@ -1,3 +1,10 @@
 body{
-    background-color: rgb(236, 252, 255);
+    background-color: white;
+}
+
+#gameCanvas {
+    background-color: #ffffff; /* キャンバスの背景を白に */
+    border: 1px solid #000000; /* キャンバスに黒い枠線をつける */
+    display: block;
+    margin: 20px auto;
 }
