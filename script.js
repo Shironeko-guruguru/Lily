@@ -6,3 +6,4 @@ window.onload = function() {
         return;
     }
   
+  const playerImage = new Image();
