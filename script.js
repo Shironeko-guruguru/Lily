@@ -49,3 +49,7 @@ window.onload = function() {
             }
         }
     };
+
+  function initializeGame() {
+    
+  }
