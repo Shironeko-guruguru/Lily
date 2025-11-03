@@ -11,7 +11,7 @@ window.onload = function() {
   const assets = {
     images: {},
     imageSources: {
-      umidukaaoi:"UmidukaAoi.png"
+      umidukaaoi:"chara/UmidukaAoi.png"
     },
     load: function(onComplete) {
       const sources = this.imageSources;
